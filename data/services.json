@@ -1,0 +1,422 @@
+[
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "Letta (formerly MemGPT)",
+    "url": "https://www.letta.com",
+    "repo_url": "https://github.com/letta-ai/letta",
+    "capability": "Stateful LLM operating system with persistent self-editing memory & evolving persona",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/letta-ai/letta",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 699,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 699ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "LangGraph",
+    "url": "https://www.langchain.com/langgraph",
+    "repo_url": "https://github.com/langchain-ai/langgraph",
+    "capability": "Cyclic state-machine orchestration for multi-agent cognition, memory, and human-in-the-loop",
+    "license": "MIT",
+    "check_url": "https://github.com/langchain-ai/langgraph",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 744,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 744ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "AutoGen (Microsoft)",
+    "url": "https://microsoft.github.io/autogen/",
+    "repo_url": "https://github.com/microsoft/autogen",
+    "capability": "Event-driven multi-agent conversation framework for collaborative autonomous task-solving",
+    "license": "MIT",
+    "check_url": "https://github.com/microsoft/autogen",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 626,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 626ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "CrewAI",
+    "url": "https://www.crewai.com",
+    "repo_url": "https://github.com/crewAIInc/crewAI",
+    "capability": "Role-based collaborative agent orchestration modeling autonomous human team dynamics",
+    "license": "MIT",
+    "check_url": "https://github.com/crewAIInc/crewAI",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 661,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 661ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "MetaGPT",
+    "url": "https://www.deepwisdom.ai",
+    "repo_url": "https://github.com/geekan/MetaGPT",
+    "capability": "Multi-agent framework assigning human SOPs (Standard Operating Procedures) to software agents",
+    "license": "MIT",
+    "check_url": "https://github.com/geekan/MetaGPT",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 902,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 902ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "Smolagents (Hugging Face)",
+    "url": "https://huggingface.co/docs/smolagents",
+    "repo_url": "https://github.com/huggingface/smolagents",
+    "capability": "Lightweight code-first autonomous agents executing Python code actions directly",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/huggingface/smolagents",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 656,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 656ms`"
+    }
+  },
+  {
+    "category": "Cognitive Architectures & Agent Loops",
+    "name": "Camel-AI",
+    "url": "https://www.camel-ai.org",
+    "repo_url": "https://github.com/camel-ai/camel",
+    "capability": "Communicative multi-agent framework exploring autonomous cooperative intelligence",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/camel-ai/camel",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 676,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 676ms`"
+    }
+  },
+  {
+    "category": "Episodic & Long-Term Memory Systems",
+    "name": "Mem0",
+    "url": "https://mem0.ai",
+    "repo_url": "https://github.com/mem0ai/mem0",
+    "capability": "Adaptive memory layer extracting user preferences, episodic events, and self-updating facts",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/mem0ai/mem0",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 630,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 630ms`"
+    }
+  },
+  {
+    "category": "Episodic & Long-Term Memory Systems",
+    "name": "Zep",
+    "url": "https://www.getzep.com",
+    "repo_url": "https://github.com/getzep/zep",
+    "capability": "Temporal Knowledge Graph engine constructing dynamic real-time semantic memory for LLMs",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/getzep/zep",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 582,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 582ms`"
+    }
+  },
+  {
+    "category": "Episodic & Long-Term Memory Systems",
+    "name": "Cognee",
+    "url": "https://www.cognee.ai",
+    "repo_url": "https://github.com/topoteretes/cognee",
+    "capability": "Graph-powered cognitive memory and self-organizing knowledge graphs for AI agents",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/topoteretes/cognee",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 710,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 710ms`"
+    }
+  },
+  {
+    "category": "Episodic & Long-Term Memory Systems",
+    "name": "Chroma DB",
+    "url": "https://www.trychroma.com",
+    "repo_url": "https://github.com/chroma-core/chroma",
+    "capability": "Open-source embedding database purpose-built for cognitive search and episodic retrieval",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/chroma-core/chroma",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 539,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 539ms`"
+    }
+  },
+  {
+    "category": "Episodic & Long-Term Memory Systems",
+    "name": "Qdrant",
+    "url": "https://qdrant.tech",
+    "repo_url": "https://github.com/qdrant/qdrant",
+    "capability": "High-throughput vector search engine with payload filtering for neural episodic recall",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/qdrant/qdrant",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 625,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 625ms`"
+    }
+  },
+  {
+    "category": "World Models & Simulation",
+    "name": "Generative Agents (Smallville)",
+    "url": "https://github.com/joonspk-research/generative_agents",
+    "repo_url": "https://github.com/joonspk-research/generative_agents",
+    "capability": "Pioneering interactive sandbox simulation of 25 autonomous agents living in an emergent virtual town",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/joonspk-research/generative_agents",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 526,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 526ms`"
+    }
+  },
+  {
+    "category": "World Models & Simulation",
+    "name": "Voyager (MineDojo)",
+    "url": "https://voyager.minedojo.org",
+    "repo_url": "https://github.com/MineDojo/Voyager",
+    "capability": "First open-ended, lifelong learning embodied agent in Minecraft with self-evolving skill library",
+    "license": "MIT",
+    "check_url": "https://github.com/MineDojo/Voyager",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 698,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 698ms`"
+    }
+  },
+  {
+    "category": "World Models & Simulation",
+    "name": "LeRobot (Hugging Face)",
+    "url": "https://github.com/huggingface/lerobot",
+    "repo_url": "https://github.com/huggingface/lerobot",
+    "capability": "State-of-the-art open-source robotics, vision-language-action (VLA) policy training & embodiment",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/huggingface/lerobot",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 536,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 536ms`"
+    }
+  },
+  {
+    "category": "World Models & Simulation",
+    "name": "OASIS (Decentralized World Model)",
+    "url": "https://github.com/oasis-simulation/oasis",
+    "repo_url": "https://github.com/oasis-simulation/oasis",
+    "capability": "Open-ended social simulation platform evaluating emergent behaviors in multi-agent environments",
+    "license": "MIT",
+    "check_url": "https://github.com/oasis-simulation/oasis",
+    "health": {
+      "status": "DEGRADED",
+      "code": 404,
+      "latency_ms": 366,
+      "badge": "![Degraded](https://img.shields.io/badge/Status-HTTP_404-d29922?style=flat-square)"
+    }
+  },
+  {
+    "category": "Self-Reflection & Deliberate Reasoning",
+    "name": "DSPy (Stanford)",
+    "url": "https://dspy.ai",
+    "repo_url": "https://github.com/stanfordnlp/dspy",
+    "capability": "Declarative cognitive framework that systematically compiles and optimizes LM prompts & weights",
+    "license": "MIT",
+    "check_url": "https://github.com/stanfordnlp/dspy",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 564,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 564ms`"
+    }
+  },
+  {
+    "category": "Self-Reflection & Deliberate Reasoning",
+    "name": "Tree of Thoughts (ToT)",
+    "url": "https://github.com/princeton-nlp/tree-of-thought-llm",
+    "repo_url": "https://github.com/princeton-nlp/tree-of-thought-llm",
+    "capability": "Deliberate problem-solving exploration enabling search, backtracking, and self-evaluation",
+    "license": "MIT",
+    "check_url": "https://github.com/princeton-nlp/tree-of-thought-llm",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 604,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 604ms`"
+    }
+  },
+  {
+    "category": "Self-Reflection & Deliberate Reasoning",
+    "name": "Reflexion",
+    "url": "https://github.com/noahshinn/reflexion",
+    "repo_url": "https://github.com/noahshinn/reflexion",
+    "capability": "Autonomous cognitive reinforcement loop empowering agents to learn from failures via verbal reflection",
+    "license": "MIT",
+    "check_url": "https://github.com/noahshinn/reflexion",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 609,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 609ms`"
+    }
+  },
+  {
+    "category": "Self-Reflection & Deliberate Reasoning",
+    "name": "TextGrad",
+    "url": "https://textgrad.com",
+    "repo_url": "https://github.com/zou-group/textgrad",
+    "capability": "Automatic differentiation via text providing gradient-based feedback to optimize compound AI systems",
+    "license": "MIT",
+    "check_url": "https://github.com/zou-group/textgrad",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 735,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 735ms`"
+    }
+  },
+  {
+    "category": "Sensory Perception & Real-Time Embodiment",
+    "name": "LiveKit Agents",
+    "url": "https://livekit.io/agents",
+    "repo_url": "https://github.com/livekit/agents",
+    "capability": "Sub-hundred millisecond real-time WebRTC voice, auditory, and vision orchestration for sentient agents",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/livekit/agents",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 581,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 581ms`"
+    }
+  },
+  {
+    "category": "Sensory Perception & Real-Time Embodiment",
+    "name": "Faster-Whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "repo_url": "https://github.com/SYSTRAN/faster-whisper",
+    "capability": "CTranslate2-accelerated real-time speech transcription serving as the auditory sensory cortex",
+    "license": "MIT",
+    "check_url": "https://github.com/SYSTRAN/faster-whisper",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 569,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 569ms`"
+    }
+  },
+  {
+    "category": "Sensory Perception & Real-Time Embodiment",
+    "name": "Outetts",
+    "url": "https://github.com/edwko/OuteTTS",
+    "repo_url": "https://github.com/edwko/OuteTTS",
+    "capability": "Pure LLM-based affective speech synthesis model capable of nuanced vocal emotional expression",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/edwko/OuteTTS",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 569,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 569ms`"
+    }
+  },
+  {
+    "category": "Sensory Perception & Real-Time Embodiment",
+    "name": "Moondream",
+    "url": "https://moondream.ai",
+    "repo_url": "https://github.com/vikhyat/moondream",
+    "capability": "Ultra-compact (1.6B) visual perception model running locally on edge for real-time visual reasoning",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/vikhyat/moondream",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 908,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 908ms`"
+    }
+  },
+  {
+    "category": "Execution Sandboxes & Action Protocols",
+    "name": "E2B Code Interpreter",
+    "url": "https://e2b.dev",
+    "repo_url": "https://github.com/e2b-dev/E2B",
+    "capability": "Isolated micro-VM cloud sandboxes allowing AI agents to securely execute code, bash, and analyze data",
+    "license": "Apache-2.0",
+    "check_url": "https://github.com/e2b-dev/E2B",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 703,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 703ms`"
+    }
+  },
+  {
+    "category": "Execution Sandboxes & Action Protocols",
+    "name": "Browserbase",
+    "url": "https://www.browserbase.com",
+    "repo_url": "https://github.com/browserbase/browserbase",
+    "capability": "Serverless headless browser runtime equipped with stealth, proxies, and captcha-solving for agentic web actions",
+    "license": "Commercial / Free Tier",
+    "check_url": "https://www.browserbase.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 226,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 226ms`"
+    }
+  },
+  {
+    "category": "Execution Sandboxes & Action Protocols",
+    "name": "Model Context Protocol (MCP)",
+    "url": "https://modelcontextprotocol.io",
+    "repo_url": "https://github.com/modelcontextprotocol",
+    "capability": "Open standard by Anthropic connecting cognitive brains to external tools, databases, and enterprise environments",
+    "license": "MIT",
+    "check_url": "https://modelcontextprotocol.io",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 442,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 442ms`"
+    }
+  },
+  {
+    "category": "Execution Sandboxes & Action Protocols",
+    "name": "Daydreams",
+    "url": "https://daydreams.systems",
+    "repo_url": "https://github.com/daydreamsai/daydreams",
+    "capability": "Deterministic generative agent framework bridging LLM cognitive reasoning into on-chain and off-chain execution",
+    "license": "MIT",
+    "check_url": "https://github.com/daydreamsai/daydreams",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 724,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 724ms`"
+    }
+  }
+]
